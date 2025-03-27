@@ -770,7 +770,8 @@ section,
 .gallery .gallery-filters li.filter-active,
 .filter-register:hover, .filter-register {
   color: var(--contrast-color);
-  background-color: var(--accent-color);
+  border: #d22b22 1px solid;
+/*   background-color: var(--accent-color); */
 }
 
 .gallery .gallery-filters li:first-child {
